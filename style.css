@@ -1,6 +1,6 @@
 /* Basic Style */
 body {
-   background-color: #f8f8f8;
+  background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
 }
@@ -21,7 +21,7 @@ body {
 .aaa { text-align: center;
 }
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
